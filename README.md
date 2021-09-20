@@ -3,7 +3,7 @@
 ## Sobre a disciplina
 Essa disciplina é oferecida no curso de [pós-graduação online em Java](http://pos-graduacao-ead.cp.utfpr.edu.br/java/) da Universidade Tecnológica Federal do Paraná - Campus Cornélio Procópio.
 
-A disciplina é ministrada pelo [prof. Gabriel Costa Silva](https://gabrielcostasilva.github.io/personal-website/) a partir de 2019/2.
+A disciplina é ministrada pelo [prof. Gabriel Costa Silva](https://gabrielcostasilva.github.io/personal-website/) desde 2019/2.
 
 ## Objetivo
 O objetivo geral dessa disciplina é capacitar o estudante para criar aplicações Web funcionais usando Java e o framework Spring Boot. 
@@ -18,7 +18,7 @@ Além do Java e Spring Boot, outras tecnologias que são usadas na disciplina s�
 
 ## _Branches_
 
-Os _branches_ estão organizadas de acordo com as semanas e os tópicos de aula. Os assuntos das aulas estão organizados da seguinte forma:
+As _branches_ estão organizadas de acordo com as semanas e os tópicos de aula. Os assuntos das aulas estão organizados da seguinte forma:
 
 - __Semana 01:__ A primeira semana de aula introduz o professor, a disciplina e as principais ferramentas usadas no curso.
 
