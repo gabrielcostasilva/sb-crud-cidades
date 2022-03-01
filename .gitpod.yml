@@ -1,5 +1,5 @@
 tasks:
-- init: ./mvnw package -DskipTests
+- init: mvn package -DskipTests
   command: java -jar target/*.jar
 
 # exposed ports
@@ -13,3 +13,4 @@ vscode:
     - vscjava.vscode-java-debug
     - vscjava.vscode-java-test
     - pivotal.vscode-spring-boot
+    - pivotal.vscode-boot-dev-pack
