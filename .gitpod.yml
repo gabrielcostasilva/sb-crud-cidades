@@ -2,7 +2,6 @@ image: gitpod/workspace-java-17
 
 tasks:
 - init: mvn package -DskipTests
-  command: java -jar target/*.jar
 
 # exposed ports
 ports:
